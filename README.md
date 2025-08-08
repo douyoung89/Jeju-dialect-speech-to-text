@@ -22,7 +22,7 @@
       * [cite\_start]**STE (Subsampler-Transformer Encoder)**: 1D Convolution으로 구성된 서브샘플링 모듈과 트랜스포머 인코더 블록을 결합하여 음성 임베딩을 처리합니다[cite: 88].
 3.  [cite\_start]**LLM Decoder (T5)**: 커넥터를 통해 전달된 임베딩을 바탕으로 최종적인 표준 한국어 텍스트를 생성하는 디코더입니다[cite: 36, 63].
 
-[cite\_start]*그림 1: 제안된 Whisper-Connector-T5 모델 아키텍처 개요 [cite: 34]*
+[architecture.png]*그림 1: 제안된 Whisper-Connector-T5 모델 아키텍처 개요 [cite: 34]*
 
 ## 데이터셋
 
